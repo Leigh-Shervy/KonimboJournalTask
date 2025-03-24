@@ -229,7 +229,7 @@ export default function DailyJournal() {
   return (
     <div className="container mx-auto py-8 px-4">
       <header className="mb-8 text-center">
-        <h1 className="text-3xl font-bold mb-2">Me Journal</h1>
+        <h1 className="text-3xl font-bold mb-2">Me Journal S</h1>
         <p className="text-muted-foreground mb-4">Capture your thoughts each day, reflect each week</p>
         <p className="text-sm italic max-w-lg mx-auto">
           "If you can get 1 percent better each day for one year, you'll end up thirty-seven times better by the time
